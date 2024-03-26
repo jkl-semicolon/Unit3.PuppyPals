@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-    
+      <h1>The Pups</h1>
       {
         puppies.map((puppy) => {
           return (
